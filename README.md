@@ -33,7 +33,7 @@ HTML5 Video Element
 
 Clone the repository:
 
-git clone https://github.com/yourusername/journey-background-video.git
+git clone https://github.com/Aftabuddin-mallick/journey-background-video.git
 
 
 Open index.html in your browser.
